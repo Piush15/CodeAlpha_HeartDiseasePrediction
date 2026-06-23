@@ -1,5 +1,5 @@
 # CodeAlpha_HeartDiseasePrediction.
-Heart Disease Prediction Using Machine Learning
+Heart Disease Prediction Using Machine Learning.
 Project Overview
 
 This project predicts the likelihood of heart disease using Machine Learning classification algorithms. The objective is to assist in early disease detection by analyzing patient medical attributes such as age, cholesterol level, chest pain type, blood pressure, and other health indicators.
