@@ -26,6 +26,9 @@ Random Forest	98.54%
 
 Random Forest achieved the highest predictive performance among all models.
 
+<img width="880" height="593" alt="image" src="https://github.com/user-attachments/assets/b7ab44f2-3590-4719-b3cc-ca48d85cdd2e" />
+
+
 Key Visualizations
 Disease Distribution
 Correlation Heatmap
